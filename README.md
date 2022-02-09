@@ -1,56 +1,47 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# React Capstone World Countries
 
-> Description the project.
+Fetching data from REST COUNTRIES API, this app (mobile version for now) gives information like area, population, capital, and borders for 195 countries from seven continents.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: JavaScript, HTML & CSS;
+- Frameworks: React;
+- Technologies used: Redux, GitHub, GitFlow, Terminal;
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
+You need Node.js installed in your terminal.
+
 ### Setup
+To get a local copy up and running follow these simple steps.
+
+To setup the bookstore project in your local, in the repo page: click on code (dropdown list) > Download as ZIP; or open terminal of path you want to install project and run this command
+
+https://github.com/oliverSCZ/react-capstone-countries-of-the-world.git
 
 ### Install
+Run in your terminal the following commands:
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+$ cd world-countries--react-capstone/
+$ npm install
+$ npm start
 
 ## Authors
 
-👤 **Author1**
+👤 **Oliver Coimbra**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@olivercoimbra](https://github.com/oliverSCZ)
+- Twitter: [@olivercoimbra](https://twitter.com/olivercoimbra)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/olivercoimbra)
 
 ## 🤝 Contributing
 
@@ -64,9 +55,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+This is a project done during React module at [Microverse](https://microverse.org), a remote web-developer school, using their support and frameworks provided.
+For the data, I used [REST COUNTRIES](https://restcountries.com/) API.
+For the design, I used inpiration from [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) using these [design guidelines](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
 
 ## 📝 License
 
