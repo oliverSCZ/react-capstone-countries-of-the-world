@@ -34,3 +34,12 @@
   grid-template-columns: repeat(2, auto);
   font-size: 1.7rem;
 }
+
+.Country__arrow {
+  position: absolute;
+  top: 2.5rem;
+  left: 2rem;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  padding: 1rem;
+}
