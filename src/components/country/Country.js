@@ -35,18 +35,19 @@ const Country = ({
           </div>
           <div className="Country__sizes">
             <h2>
-              Country Size Area:
+              Area:
               {' '}
               {(country.area / 1000).toFixed(2)}
               {' '}
-              thousand sq km;
+              thousand Km
+              <sup>2</sup>
             </h2>
             <h2>
               Population Size:
               {' '}
               {country.population}
               {' '}
-              people;
+              people
             </h2>
             <h2>
               Capital:
