@@ -17,6 +17,9 @@ Fetching data from REST COUNTRIES API, this app (mobile version for now) gives i
 
 
 ## Getting Started
+![screenshot1](./src/assets/screenshot1.png)
+![screenshot2](./src/assets/screenshot2.png)
+
 ### Prerequisites
 
 You need Node.js installed in your terminal.
