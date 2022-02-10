@@ -1,5 +1,37 @@
 .Continents__img {
   background-color: rgb(228, 89, 146);
+  width: 100%;
+  height: auto;
+  animation: fadeIn 5s;
+  -webkit-animation: fadein 5s;
+  -moz-animation: fadein 5s;
+  -o-animation: fadein 5s;
+  -ms-animation: fadein 5s;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-moz-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-webkit-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-o-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-ms-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 a:link,
@@ -43,4 +75,18 @@ a:active {
 
 .Continents__list_items_name {
   font-weight: bold;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }

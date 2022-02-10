@@ -7,7 +7,7 @@ import { v4 as uuidv4 } from 'uuid';
 import fetchContinentCountries from '../../redux/apiCall';
 import DisplayCountries from '../countries/DisplayCountries';
 import './continents.css';
-import worldMap from '../../assets/wrld-17.svg';
+import worldMap from '../../assets/wrld-17.png';
 
 const Continents = ({
   searchCountry, onSetCountries, onSetCountry, onSetSearchEmpty, onSetContinentMap,
