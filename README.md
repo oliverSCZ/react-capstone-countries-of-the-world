@@ -3,7 +3,7 @@
 # React Capstone World Countries
 
 Fetching data from REST COUNTRIES API, this app (mobile version for now) gives information like area, population, capital, and borders for 195 countries from seven continents.
-
+[Presentation Video](https://www.loom.com/share/8be900543f704eaab11aa47c194a5167)
 
 ## Built With
 
