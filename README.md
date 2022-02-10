@@ -13,7 +13,7 @@ Fetching data from REST COUNTRIES API, this app (mobile version for now) gives i
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://world-countries-capstone-project.netlify.app/)
 
 
 ## Getting Started
